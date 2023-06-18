@@ -5,6 +5,8 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
+![](https://komarev.com/ghpvc/?username=Dark3581)
+
 #
 
 ### 🧰 Languages and Tools
