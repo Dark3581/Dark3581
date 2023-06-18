@@ -1,6 +1,7 @@
 ### 📊 Stats
 
 [![Donny's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark3581)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?Dark3581)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
