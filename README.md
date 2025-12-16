@@ -1,32 +1,54 @@
-## 📊 Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dark3581&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <a href="https://wavetech.solutions">
+    <img src="https://wavetech.solutions/wavytech.png" alt="WaveTech" height="72" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dark3581&theme=tokyonight&hide_border=true" />
+  <b>Daniel</b> • Builder at WaveTech • Production software, automation, and scalable systems
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dark3581&style=flat-square&color=blue" />
+  <a href="https://wavetech.solutions">wavetech.solutions</a>
 </p>
 
 ---
 
-# Daniel — WaveTech
+## About
 
-Founder & technical builder at **WaveTech**  
-🌐 https://wavetech.solutions
+WaveTech is where I build production software focused on reliability, performance, and long-term maintainability.  
+A lot of my work is private and reflects real systems used in production rather than demos.
 
-I build and maintain production software with a focus on reliability, performance, and long-term maintainability.  
-Most of my work lives in private repositories and reflects real systems used in production rather than demos or experiments.
+---
+
+## Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Dark3581&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    alt="GitHub stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Dark3581&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Dark3581&style=flat-square&color=blue"
+    alt="Profile views"
+  />
+</p>
 
 ---
 
 ## What I work on
 
-- Designing and building scalable web platforms
+- Full-stack web platforms
 - Backend systems, APIs, and internal tooling
 - Automation and workflow optimization
 - Frontend architecture and state management
@@ -47,19 +69,3 @@ Most of my work lives in private repositories and reflects real systems used in 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="32" />
 </p>
-
----
-
-## Focus
-
-- Shipping and maintaining real software
-- Clean architecture and predictable systems
-- Reducing complexity through automation
-- Building things that scale without constant rewrites
-
----
-
-## Links
-
-- Website: https://wavetech.solutions
-- GitHub: https://github.com/Dark3581
